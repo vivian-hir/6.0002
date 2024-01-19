@@ -1,0 +1,9 @@
+N0 N1 15 highway 2
+N0 N2 7 uphill 1
+N1 N3 6 highway 3
+N4 N2 7 uphill 1
+N3 N6 5 local 4
+N3 N8 15 highway 1
+N4 N5 4 highway 2
+N6 N7 7 collector 2
+N7 N9 1 toll 1

@@ -1,0 +1,4 @@
+NO N1 4 local 3
+N1 N2 3 highway 2
+N2 N3 5 toll 1
+N3 N0 8 uphill 2
